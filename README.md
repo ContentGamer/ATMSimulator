@@ -1,2 +1,3 @@
 # ATMSimulator
-A CSharp ATM Simulator.
+
+An upcoming ATM Simulator CSharp Project.
